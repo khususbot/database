@@ -1,27 +1,25 @@
-[
     {
-        "nomor": "62123456789",
+        "62123456789", {
         "nama": "tes",
         "password": "aja"
     },
     {
-        "nomor": "62123456789",
+        "62123456789", {
         "nama": "tes",
         "password": "hai"
     },
     {
-        "nomor": "62895341005409",
+      "62895341005409", {
         "nama": "buyer",
         "password": "admin"
     },
     {
-        "nomor": "628812865849",
+      "628812865849", {
         "nama": "buyer",
         "password": "sanscizor"
     },
     {
-        "nomor": "6285211648602",
+        "6285211648602", {
         "nama": "buyer",
         "password": "ambatukam"
     }
-]
