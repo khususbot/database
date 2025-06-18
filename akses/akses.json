@@ -8,5 +8,10 @@
         "nomor": "62123456789",
         "nama": "tes",
         "password": "hai"
+    },
+    {
+        "nomor": "62895341005409",
+        "nama": "buyer",
+        "password": "admin"
     }
 ]
